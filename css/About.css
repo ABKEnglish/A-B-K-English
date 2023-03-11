@@ -21,7 +21,7 @@ html{
 		   background: hsl(221, 29%, 50%);
 		   border: none;
 		   border-radius: 20px;
-		   width: 200px;
+		   width: 270px;
 		   color: #ffffff;
 		}
 		.dd-content {
@@ -38,6 +38,7 @@ html{
 		}
 		.dd-content > a {
 		   display: block;
+		   font-size: 45px;
 		   padding: 15px;
 		   border-radius: 30px;
 		   text-decoration: none;
