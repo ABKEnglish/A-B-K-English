@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lateef&family=Noto+Nastaliq+Urdu:wght@600&display=swap');
+
 *{
 	margin: 0;
 	padding: 0;
@@ -6,11 +8,17 @@
 
 html{
 	background-image:linear-gradient(rgba(0, 0, 0, 0.562),hwb(0 0% 100% / 0.562)), url(../wena/aa.jpg);
-        height: 100vh;
+	height: 100vh;
 	background-size: cover;
 	background-position: center;
 	min-height: 100px;
 	}
+
+	.title{
+		font-family: 'Lateef', serif;
+	
+	}
+
 		.dd {
 		   position: relative;
 		   display: inline-block;
@@ -152,7 +160,13 @@ ul li.active a{
 
 .title h1{
 	color: #fff;
-	font-size: 60px;
+	font-size: 50px;
+	font-family: 'Lateef', serif;
+
+}
+
+h1{
+	font-family: 'Lateef', serif;
 
 }
 
@@ -165,7 +179,7 @@ h3{
 
 h3{
 color: #fff;
-font-size: 38px
+font-size: 30px
 
 }
 
